@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Profile Banner" width="800" />
+  <img src="![image](https://github.com/user-attachments/assets/a361b159-c6ac-41c6-ba80-549d3e5e6e0a)" alt="Profile Banner" width="800" />
 </div>
 
 # Hi 👋, I'm Akshat
 A Senior Electrical Engineering Student at Texas A&M University 🎓
-
-### 🔍 Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=AkshatNerella&color=blue&style=flat-square)
 
 ---
 
