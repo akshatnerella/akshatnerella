@@ -13,17 +13,6 @@ Test Engineer @ Tesla, Texas A&M Alum
 
 ---
 
-## 📊 GitHub Stats
-| Followers  | Commits  | Repositories  | Stars  | Experience  | Issues  |
-|------------|----------|---------------|--------|-------------|---------|
-| 🏆 Hyper Celebrity | 🔥 Middle Committer | 📁 Repo Creator | ⭐ First Star | 🆕 Newbie | ❓ Unknown |
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatNerella&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
----
-
 ### 🛠️ Tools and Languages:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
@@ -39,8 +28,6 @@ Test Engineer @ Tesla, Texas A&M Alum
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akshatnerella)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube)](YOUR_YOUTUBE_CHANNEL)
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram)](YOUR_INSTAGRAM)
 
 ---
 
