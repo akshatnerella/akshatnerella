@@ -3,14 +3,13 @@
 </div>
 
 # Hi 👋, I'm Akshat
-A Senior Electrical Engineering Student at Texas A&M University 🎓
+Test Engineer @ Tesla, Texas A&M Alum
 
 ---
 
 ## 🚀 About Me
 - 💻 **Areas of Interest:** Hardware Design, Machine Learning, and Control Systems
-- 🌟 **Fun Fact:** I once created a robotic arm using a Raspberry Pi and servo motors!
-- 🌍 **Aspiration:** To give back to the Texas A&M community as a successful Controls Engineer.
+- 🌟 **Fun Fact:** I am ambidextrous
 
 ---
 
