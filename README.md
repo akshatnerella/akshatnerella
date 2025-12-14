@@ -3,13 +3,13 @@
 </div>
 
 # Hi 👋, I'm Akshat
-Test Engineer @ Tesla, Texas A&M Alum
+AI Hardware @ Tesla | Texas A&M Alum
 
 ---
 
 ## 🚀 About Me
-- 💻 **Areas of Interest:** Hardware Design, Machine Learning, and Control Systems
-- 🌟 **Fun Fact:** I am ambidextrous
+- 💻 **Areas of Interest:** Hardware Design, Machine Learning, and Wearable Electronics
+- 🌟 **Fun Fact:** I am Ambidextrous
 
 ---
 
