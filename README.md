@@ -4,7 +4,7 @@
 
 #👋 Hi, I'm Akshat
 AI Hardware @ Tesla | Texas A&M Alum
-Founder of [![hardware-mcp](https://github.com/hardware-mcp)
+Founder of [hardware-mcp](https://github.com/hardware-mcp)
 
 ---
 ### 🌐 Connect With Me
