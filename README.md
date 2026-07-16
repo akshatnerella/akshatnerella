@@ -10,4 +10,4 @@ Founder of [hardware-mcp](https://github.com/hardware-mcp)
 ---
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akshatnerella)
-[![X](https://x.com/akshatnerella)
+[![X](https://img.shields.io/badge/-X?logo=X)](https://x.com/akshatnerella)
